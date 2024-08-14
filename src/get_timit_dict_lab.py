@@ -1,6 +1,5 @@
 import glob
 import argparse
-import pandas as pd
 
 """ Iterate through TIMIT dir to generate:
 		- .lab sentence transcripts (deposit in same dir)
@@ -126,8 +125,6 @@ if __name__ == '__main__':
 		with open(new_phone_out_file, 'w') as w:
 			for phone_trio in new_start_end_phones:
 				w.write(f'{phone_trio[1]} {phone_trio[2]} {phone_trio[0]}\n')
-
-		# break
 
 	# print(out_lex)
 	with open(dict_out_file, 'w') as w:

@@ -164,6 +164,7 @@ if __name__ == '__main__':
 				tg_list.append((start, end, pron_str))
 				# print(f'{elan_txt}\n{pron_str}')
 
+			continue
 			# tier = tgio.IntervalTier(speaker, tg_list, 0, duration)  # TierName, List of intervals, tier start time, tier end time
 			tier = textgrid.IntervalTier(speaker, tg_list, 0, duration)  # TierName, List of intervals, tier start time, tier end time
 			tg.addTier(tier)
