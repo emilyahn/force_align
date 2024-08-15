@@ -3,15 +3,17 @@
 Emily P. Ahn, UW Linguistics (eahn@uw.edu)
 
 Paper accepted to INTERSPEECH 2024.
+With Gina-Anne Levow, Myriam Lapierre, & Eleanor Chodroff.
 
-Citation forthcoming
+## Citation 
+Forthcoming...
 
 ## Requirements
 * conda (4.12.0)
 * Montreal Forced Aligner version (2.2.17)
 	* `conda create -n aligner2.2.17 -c conda-forge montreal-forced-aligner=2.2.17`
 
-## Data
+## Data Processing
 
 Processed data included in this repository are dictionary files.
 TIMIT English data is licensed through LDC, and the Panãra data is private.
