@@ -5,8 +5,10 @@ Emily P. Ahn, UW Linguistics (eahn@uw.edu)
 Paper accepted to INTERSPEECH 2024.
 With Gina-Anne Levow, Myriam Lapierre, & Eleanor Chodroff.
 
-## Citation 
-Forthcoming...
+## Paper / Citation 
+Download the Camera-ready PDF: `ahn2024_interspeech_granularity_camera.pdf`
+
+Citation forthcoming...
 
 ## Requirements
 * conda (4.12.0)
