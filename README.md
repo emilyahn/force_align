@@ -2,15 +2,26 @@
 
 Emily P. Ahn, UW Linguistics (eahn@uw.edu)
 
-Paper accepted to INTERSPEECH 2024.
+In Proceedings of INTERSPEECH 2024.
 With Gina-Anne Levow, Myriam Lapierre, & Eleanor Chodroff.
 
 ## Paper / Poster / Citation 
-Download the Camera-ready PDF: `ahn2024_interspeech_granularity_camera.pdf`
+Download the Camera-ready PDF: `ahn2024_interspeech_granularity_camera.pdf` or ISCA copy: [html](https://www.isca-archive.org/interspeech_2024/ahn24d_interspeech.html)
 
 Download the Interspeech Poster PDF: `ahn2024_interspeech_granularity_poster.pdf`
 
-Citation forthcoming...
+Citation in bibtex:
+```
+@inproceedings{ahn24d_interspeech,
+  title     = {The Use of Phone Categories and Cross-Language Modeling for Phone Alignment of {Panãra}},
+  author    = {Emily P. Ahn and Eleanor Chodroff and Myriam Lapierre and Gina-Anne Levow},
+  year      = {2024},
+  booktitle = {Interspeech 2024},
+  pages     = {1505--1509},
+  doi       = {10.21437/Interspeech.2024-2286},
+  issn      = {2958-1796},
+}
+```
 
 ## Requirements
 * conda (4.12.0)
